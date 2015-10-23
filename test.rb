@@ -15,3 +15,5 @@ p 'hello world'
 p 'hello world'
 p 'hello world'
 p 'test'
+
+p 'aiueo'
